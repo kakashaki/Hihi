@@ -1,0 +1,6 @@
+{
+  "name": "MetaTrader 5 Strategy Tester",
+  "description": "Nền tảng Backtest MetaTrader 5 (MT5) chuẩn bản gốc hỗ trợ đăng nhập tài khoản Real và Demo, biểu đồ nến trực quan và trình kiểm tra chiến lược Strategy Tester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
